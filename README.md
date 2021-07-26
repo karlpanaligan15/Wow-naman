@@ -2,10 +2,11 @@
 
 Hello this is my first repo and i dont know how to use this ;-;
 
+<html lang="en">
 <head>
 	<style>
 		li {
-			background-color:"red"
+			background-color="red"
 		}
 	</style>
 </head>
@@ -14,3 +15,4 @@ Hello this is my first repo and i dont know how to use this ;-;
 		<li>RAWRR</li>
 	</ol>
 </body>
+</html>
